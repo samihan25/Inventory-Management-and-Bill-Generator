@@ -31,3 +31,8 @@ Inventory management system helps a small startup company named **ProCure Ltd.**
 
 ## Contributions:
 [Shreyas Subhedar](https://github.com/ShreyasSubhedar)
+
+
+### Documentation  [![Inline docs](http://inch-ci.org/github/samihan25/Inventory-Management-and-Bill-Generator.svg?branch=master)](http://inch-ci.org/github/samihan25/Inventory-Management-and-Bill-Generator)
+
+### Hit Counter  [![HitCount](http://hits.dwyl.com/samihan25/Inventory-Management-and-Bill-Generator.svg)](http://hits.dwyl.com/samihan25/Inventory-Management-and-Bill-Generator)
